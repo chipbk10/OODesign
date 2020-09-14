@@ -23,3 +23,8 @@
 # Forum
 
 [#](https://leetcode.com/discuss/interview-question/609070/amazon-ood-design-unix-file-search-api)
+
+# Background
+
+1. Abstraction, Inheritance, Polymorphism, and Encapsulation [#](https://bit.ly/33FMfxx)
+2. SOLID [#](https://bit.ly/3kgjLRy) [Single Responsibility](), [Open-Closed](), [Liskov Substitution](), [Interface Seregation](), [Dependency Inversion]()
